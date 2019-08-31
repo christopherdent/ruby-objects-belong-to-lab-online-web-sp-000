@@ -6,7 +6,7 @@ class Song
   end 
   
   
-  
+  song.artist = artist 
   
   
 end 
